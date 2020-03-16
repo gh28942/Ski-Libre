@@ -7,7 +7,7 @@ You can see the gameplay here: https://www.youtube.com/watch?v=A4QI2hS5OOw
 <br><br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-1.jpg" width="200">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-1.jpg" width="50%">
 <br>Encrypted high score file</br>
 <br><br>
 
@@ -15,15 +15,15 @@ You can see the gameplay here: https://www.youtube.com/watch?v=A4QI2hS5OOw
 <br>Starting screen / main menu</br>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-3.jpg" style="height:60%;">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-3.jpg" width="50%">
 <br>Options / Controls</br>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-4.jpg" style="height:60%;">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-4.jpg" width="50%">
 <br>Splash screen you see before a level starts</br>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-5.jpg" style="height:60%;">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-5.jpg" width="50%">
 <br>A SkiLibre level</br>
 <br><br>
 </p>
