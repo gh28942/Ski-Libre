@@ -7,11 +7,11 @@ You can see the gameplay here: https://www.youtube.com/watch?v=A4QI2hS5OOw
 <br><br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-1.jpg" style="height:60%;">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-1.jpg" width="200">
 <br>Encrypted high score file</br>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-2.jpg" style="height:60%;">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-2.jpg" width="50%">
 <br>Starting screen / main menu</br>
 <br><br>
 
