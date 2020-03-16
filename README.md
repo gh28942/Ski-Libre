@@ -23,7 +23,7 @@ You can see the gameplay here: https://www.youtube.com/watch?v=A4QI2hS5OOw
 <br>Splash screen you see before a level starts</br>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-5.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/gh28942/Ski-Libre/master/screenshot/scr-skilibre-5.jpg" width="20%">
 <br>A SkiLibre level</br>
 <br><br>
 </p>
